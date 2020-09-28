@@ -214,6 +214,12 @@ print("Hola mundo")
 
 La ESO va desde primero hasta cuarto. Todo aquel que apruebe la ESO puede acceder a bachilleto para hacer las PAU.
 
+
+Esto es un texto con nota al pie [^nota1] y esta es otra nota [^nota2]
+
+[^nota1]: Esto es una nota al pie de página.
+[^nota2]: Esto es la segunda nota al pie.
+
 <!-- Imagenes -->
 
 <!-- Por web, si falla la imagen, si no la encuentra, sale lo que este en [] -->
