@@ -7,7 +7,7 @@
 ### Mi titulo en h3{#inicio}
 #### Mi titulo en h4
 ##### Mi titulo en h5
-###### Mi titulo en h2
+###### Mi titulo en h6
 
 <!-- Con un salto de linea lo escribe todo en la misma linea -->
 
