@@ -2,9 +2,9 @@
 
 <!-- HEADINGS -->
 
-# Mi titulo en h1 {#inicio}
+# Mi titulo en h1 
 ## Mi titulo en h2
-### Mi titulo en h3
+### Mi titulo en h3{#inicio}
 #### Mi titulo en h4
 ##### Mi titulo en h5
 ###### Mi titulo en h2
