@@ -209,6 +209,9 @@ print("Hola mundo")
 | Texto 31 | Texto 32 | Texto 33 |
 
 
+*[ESO]: Enseñanza secundaria obligatoria 
+*[PAU]: Pruebas de acceso a la universidad
+
 La ESO va desde primero hasta cuarto. Todo aquel que apruebe la ESO puede acceder a bachilleto para hacer las PAU.
 
 <!-- Imagenes -->
@@ -262,5 +265,4 @@ Para saber más clique [aquí](https://github.com/adam-p/markdown-here/wiki/Mark
 
 [Ir a la lista ordenada](#listor)
 
-*[ESO]: Enseñanza secundaria obligatoria 
-*[PAU]: Pruebas de acceso a la universidad
+
