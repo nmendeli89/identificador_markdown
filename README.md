@@ -272,12 +272,12 @@ Para saber más clique [aquí](https://github.com/adam-p/markdown-here/wiki/Mark
 [Ir a la lista ordenada](#listor)
 
 
-Primer termino
- : Primera definición
- : Segunda definición
+Primertermino
+ : Primeradefinición
+ : Segundadefinición
 
-Segundo termino
- : Segunda definición
+Segundotermino
+ : Primeradefinición
 
 * l1
 * l2
